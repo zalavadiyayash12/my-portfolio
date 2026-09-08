@@ -6,7 +6,7 @@ import {
   FaStar, FaAward, FaCheckCircle, FaPhone, FaGithub, FaLinkedin, FaTwitter, FaInstagram, FaPaperPlane, FaTimes, FaBars 
 } from 'react-icons/fa';
 import { portfolioData } from './data/portfolioData';
-import yourPhoto from './assets/your-photo.jpg';
+import yourPhoto from './assets/your-photo1.jpg';
 
 export default function App() {
   const [isLoading, setIsLoading] = useState(true);
